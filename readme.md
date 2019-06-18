@@ -1,16 +1,14 @@
-### Chatbot with Machine Learning
+Chatbot with Machine Learning
 
-#### Training Model
+Training Model
 ```
 python3 training.py
 ```
-#### Predict
+Predict
 ```
-from predict import response, classify
-
->>> response('?')
-
-
->>> classify('?')aa
-[('opentoday', 0.93861651)]
-```
+from ChatBotTraining import trainingChatBot
+from ChatBot import runChatBot
+trainingChat()
+runChatBot()
+"Chu Xuân Tình"
+"Âu Dương"
