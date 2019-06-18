@@ -12,3 +12,4 @@ trainingChat()
 runChatBot()
 "Chu Xuân Tình"
 "Âu Dương"
+https://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
